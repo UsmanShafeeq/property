@@ -12,6 +12,7 @@ import ContactCard from "./components/ContactCard";
 import Testimonial from "./components/Testimonial";
 import StatsBanner from "./components/StatsBanner";
 import BlogPostCard from "./components/BlogPostCard";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
         <Testimonial />
         <StatsBanner />
         <BlogPostCard />
+        <Footer />
       </div>
     </>
   );
